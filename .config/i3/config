@@ -11,8 +11,8 @@
 
 set $mod Mod1
 
-#gaps inner 15px
-#gaps outer 5px
+gaps inner 6px
+#gaps outer 3px
 
 default_border pixel 
 default_floating_border pixel 

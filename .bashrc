@@ -7,7 +7,7 @@
 
 alias dsda='~/Doom/dsda.sh'
 alias pass='~/.scripts/password.sh'
-alias ls='ls --color=auto'
+alias ls='ls --color=auto -a'
 alias gzd='/home/hunter/.scripts/gzdoom.sh'
 PS1='[\u@\h \W]\$ '
 
