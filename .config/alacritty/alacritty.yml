@@ -108,7 +108,16 @@ window:
 
   # Scrolling distance multiplier.
   #multiplier: 3
-
+font:
+  normal:
+    family: JetBrainsMono Nerd Font Mono
+  bold:
+    family: JetBrainsMono Nerd Font Mono
+  italic:
+    family: JetBrainsMono Nerd Font Mono
+  bold_italic:
+    family: JetBrainsMono Nerd Font Mono
+  size: 11.0
 # Font configuration
 #font:
   # Normal (roman) font face
